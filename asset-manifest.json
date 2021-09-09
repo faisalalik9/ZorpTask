@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ZorpTask/static/css/main.40f8e92c.chunk.css",
-    "main.js": "/ZorpTask/static/js/main.51c1b674.chunk.js",
-    "main.js.map": "/ZorpTask/static/js/main.51c1b674.chunk.js.map",
+    "main.js": "/ZorpTask/static/js/main.6a856f01.chunk.js",
+    "main.js.map": "/ZorpTask/static/js/main.6a856f01.chunk.js.map",
     "runtime-main.js": "/ZorpTask/static/js/runtime-main.bd96dc64.js",
     "runtime-main.js.map": "/ZorpTask/static/js/runtime-main.bd96dc64.js.map",
     "static/js/2.76440c63.chunk.js": "/ZorpTask/static/js/2.76440c63.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.bd96dc64.js",
     "static/js/2.76440c63.chunk.js",
     "static/css/main.40f8e92c.chunk.css",
-    "static/js/main.51c1b674.chunk.js"
+    "static/js/main.6a856f01.chunk.js"
   ]
 }
